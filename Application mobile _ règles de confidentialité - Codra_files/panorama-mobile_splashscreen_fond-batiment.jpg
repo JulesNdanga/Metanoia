@@ -1,0 +1,2210 @@
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="pingback" href="https://codra.net/xmlrpc.php" />
+
+    
+    <title>Home - SCADA &amp; Industrial Information Systems - Codra</title>
+<link rel="alternate" hreflang="fr" href="https://codra.net/fr/" />
+
+<!-- This site is optimized with the Yoast SEO plugin v7.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Developer of the Panorama Supervision / SCADA Platform, Codra is also recognized in the field of software engineering"/>
+<link rel="canonical" href="https://codra.net/en/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - SCADA &amp; Industrial Information Systems - Codra" />
+<meta property="og:description" content="Developer of the Panorama Supervision / SCADA Platform, Codra is also recognized in the field of software engineering" />
+<meta property="og:url" content="https://codra.net/en/" />
+<meta property="og:site_name" content="Codra" />
+<meta property="og:image" content="https://codra.net/wp-content/uploads/2018/10/mps2-icone.png" />
+<meta property="og:image:secure_url" content="https://codra.net/wp-content/uploads/2018/10/mps2-icone.png" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta property="og:image:alt" content="Panorama Suite - Solution de Supervision / SCADA solutiuon" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Developer of the Panorama Supervision / SCADA Platform, Codra is also recognized in the field of software engineering" />
+<meta name="twitter:title" content="Home - SCADA &amp; Industrial Information Systems - Codra" />
+<meta name="twitter:image" content="https://codra.net/wp-content/uploads/2018/10/mps2-icone.png" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/codra.net\/en\/","name":"Codra","potentialAction":{"@type":"SearchAction","target":"https:\/\/codra.net\/en\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/codra.net\/en\/","sameAs":["https:\/\/www.linkedin.com\/company\/codra","https:\/\/www.youtube.com\/user\/CodraPanorama"],"@id":"https:\/\/codra.net\/en\/#organization","name":"codra ing\u00e9nierie informatique","logo":"https:\/\/codra.net\/wp-content\/uploads\/2018\/10\/LOGO_CODRA_COULEUR_55mm_300dpi.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//pp.codra.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bodhi-svgs-attachment-css'  href='https://codra.net/wp-content/plugins/svg-support/css/svgs-attachment.css?ver=4.9.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-menu-item-0-css'  href='//pp.codra.net/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-css-bundle-css'  href='https://codra.net/wp-content/themes/codra/dist/css/bundle-62eb3505ff.css?ver=1609946644' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-styles-css'  href='https://codra.net/wp-content/themes/codra/style.css?ver=1609946646' type='text/css' media='all' />
+<script type='text/javascript' src='https://codra.net/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://codra.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://codra.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://codra.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://codra.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://codra.net/en/' />
+<link rel="alternate" type="application/json+oembed" href="https://codra.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcodra.net%2Fen%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://codra.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcodra.net%2Fen%2F&#038;format=xml" />
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-2513298-3', 'auto');
+			ga('send', 'pageview');
+		</script>
+
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link rel="icon" href="https://codra.net/wp-content/uploads/2018/06/cropped-favicon@4x-1-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://codra.net/wp-content/uploads/2018/06/cropped-favicon@4x-1-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://codra.net/wp-content/uploads/2018/06/cropped-favicon@4x-1-300x300.png" />
+<meta name="msapplication-TileImage" content="https://codra.net/wp-content/uploads/2018/06/cropped-favicon@4x-1-300x300.png" />
+
+    <script src='https://www.google.com/recaptcha/api.js?onload=onLoadCaptcha&amp;render=explicit' async='async' defer='defer'></script>
+</head>
+<body class="home page-template page-template-templates page-template-homepage page-template-templateshomepage-php page page-id-457 page-parent">
+
+
+    <div class="cookie-consent">
+        <div class="cookie__body">
+            <div class="cookie__entry">
+                <p>By continuing to browse our website, you agree to the use of third-party cookies to create statistics to enhance your user experience. For more information: See our <a href="/en/privacy-policy/">privacy policy</a></p>
+            </div><!-- /.cookie__entry -->
+
+            <div class="cookie__actions">
+                <a href="#" class="btn btn--blue btn--gradient">Accept All</a>
+            </div><!-- /.cookie__actions -->
+        </div><!-- /.cookie__body -->
+    </div><!-- /.cookie-consent -->
+
+
+<div class="wrapper" id="page-wrapper">
+    <header class="header ">
+        <a href="#" class="btn-nav">
+            <span></span>
+        </a>
+
+        <div class="search-header">
+            <div class="shell">
+                <form action="https://codra.net/en/" class="search-form" method="get" role="search">
+	<i class="ico-search"></i>
+
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+
+		<input type="text" title="Search for:" name="s" value="" placeholder="Search &hellip;" class="search__field" />
+	</label>
+	
+	<button type="submit" class="search__btn screen-reader-text">
+		Search	</button>
+
+	<a href="#" class="btn btn-close">
+		<i class="ico-close"></i>
+	</a>
+</form>            </div><!-- /.shell -->
+        </div><!-- /.search-header -->
+
+        <div class="header__bar">
+            <div class="shell">
+                <div class="logo-secondary-wrapper">
+                                            <span class="logo__bg"></span>
+                    
+                    <h1>                    <a href="https://codra.net/en/" class="logo logo-secondary">Codra</a>
+                    </h1>
+                </div><!-- /.logo-secondary-wrapper -->
+
+                <div class="header__bar-nav">
+                    <nav class="nav"><ul id="menu-header-menu-anglais" class="menu"><li id="menu-item-10766" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10766 menu-item-has-children"><a href="#">Sectors</a>		<div class="dropdown dropdown--type-2 dropdown--type-3">
+			<div class="dropdown-cols">
+				<div class="dropdown-col dropdown-col--size1 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Panorama Platform</p>
+							</div><!-- /.dropdown-block__title -->
+						
+													<div class="dropdown-block__links">
+								<ul>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/building-management-system-bms/">
+												Building Management											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/transportation/">
+												Transportation											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/power-energy/">
+												Energy											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/nuclear/">
+												Nuclear											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/water-wastewater/">
+												Water											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/process-industry-manufacturing/">
+												Industry											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/defence/">
+												Defence											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/reseach-and-development/">
+												Research											</a>
+
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+																		</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size1 -->
+
+				<div class="dropdown-col dropdown-col--size2 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Software Engineering</p>
+							</div><!-- /.dropdown-block__title -->
+						
+						 							<div class="dropdown-block__links">
+								<ul>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/software-engineering/development/">
+												Research											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/software-engineering/energy/">
+												Energy											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/software-engineering/industry/">
+												Industry											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/software-engineering/transportation/">
+												Transportation											</a>
+
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+
+																		</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size2 -->
+			</div><!-- /.dropdown-cols -->
+		</div>
+		  </li>
+<li id="menu-item-1583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1583 menu-item-has-children"><a href="#">Solutions</a>		<div class="dropdown dropdown--type-2 ">
+			<div class="dropdown-cols">
+				<div class="dropdown-col dropdown-col--size1 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Panorama Platform</p>
+							</div><!-- /.dropdown-block__title -->
+						
+													<div class="dropdown-block__links">
+								<ul>
+																													<li class="menu-item-has-children">
+											<a href="https://codra.net/en/solution/software-platform/communicate/">
+												Communicate											</a>
+
+																							<ul class="sub-menu">
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/communicate/real-time/">
+																Real Time															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/communicate/iot/">
+																IoT															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/communicate/telemetry/">
+																Telemetry															</a>
+														</li>
+																									</ul><!-- /.sub-menu -->
+																					</li>
+																													<li class="menu-item-has-children">
+											<a href="https://codra.net/en/solution/software-platform/scada/">
+												Supervise											</a>
+
+																							<ul class="sub-menu">
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/scada/hmi/">
+																HMI															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/scada/supervision/">
+																SCADA															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/scada/hypervisory-system/">
+																Hypervision															</a>
+														</li>
+																									</ul><!-- /.sub-menu -->
+																					</li>
+																													<li class="menu-item-has-children">
+											<a href="https://codra.net/en/solution/software-platform/analyse/">
+												Analyse											</a>
+
+																							<ul class="sub-menu">
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/analyse/historisation-archiving/">
+																Historian															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/analyse/dashboard/">
+																Reports and dashboards															</a>
+														</li>
+																									</ul><!-- /.sub-menu -->
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+																		</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size1 -->
+
+				<div class="dropdown-col dropdown-col--size2 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Software Engineering</p>
+							</div><!-- /.dropdown-block__title -->
+						
+						 							<div class="dropdown-block__links">
+								<ul>
+																													<li class="menu-item-has-children">
+											<a href="#">
+												Technologies											</a>
+
+																							<ul class="sub-menu">
+																																									<li class="">
+															<a href="https://codra.net/en/solution/tailor-made/distributed-architectures/">
+																Distributed architectures															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/tailor-made/operating-system/">
+																Operating systems															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/tailor-made/web-service-and-soa/">
+																Web services and SOA															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/tailor-made/object-oriented-programmation/">
+																Object-oriented programmation															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/tailor-made/gis/">
+																Geographic Information System															</a>
+														</li>
+																									</ul><!-- /.sub-menu -->
+																					</li>
+																													<li class="menu-item-has-children">
+											<a href="#">
+												Methodes											</a>
+
+																							<ul class="sub-menu">
+																																									<li class="">
+															<a href="/en/Coming-soon-solutions/">
+																V Model*															</a>
+														</li>
+																																									<li class="">
+															<a href="/en/Coming-soon-solutions/">
+																Agile methods*															</a>
+														</li>
+																									</ul><!-- /.sub-menu -->
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+
+																		</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size2 -->
+			</div><!-- /.dropdown-cols -->
+		</div>
+		  </li>
+<li id="menu-item-1584" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1584 menu-item-has-children"><a href="#">Our Offering</a>		<div class="dropdown dropdown--type-2  dropdown--type-4">
+			<div class="dropdown-cols">
+				<div class="dropdown-col dropdown-col--size1 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Panorama Platform</p>
+							</div><!-- /.dropdown-block__title -->
+						
+													<div class="dropdown-block__links">
+								<ul>
+																													<li class="menu-item-has-children">
+											<a href="https://codra.net/en/offer/panorama-suite-software-platform/">
+												Panorama Suite											</a>
+
+																							<ul class="sub-menu">
+																																									<li class="">
+															<a href="https://codra.net/en/software-offering/scada-platform/panorama-suite-software/panorama-e2/">
+																Panorama E2															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/software-offering/scada-platform/panorama-suite-software/panorama-h2/">
+																Panorama H2															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/software-offering/scada-platform/panorama-suite-software/panorama-com/">
+																Panorama COM															</a>
+														</li>
+																									</ul><!-- /.sub-menu -->
+																					</li>
+																													<li class="menu-item-has-children">
+											<a href="#">
+												Our business Solutions											</a>
+
+																							<ul class="sub-menu">
+																																									<li class="">
+															<a href="/en/offer/energy-efficiency/">
+																Energy efficiency															</a>
+														</li>
+																																									<li class="">
+															<a href="/en/software-offering/scada-platform/panorama-suite-software/panorama-e2/security-pack/">
+																Security Pack															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/software-offering/scada-platform/bim-operation/">
+																Building Information Modeling															</a>
+														</li>
+																									</ul><!-- /.sub-menu -->
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/software-offering/scada-platform/panorama-p2/">
+												Panorama P2											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/software-offering/scada-platform/cybersecurity/">
+												Cybersecurity											</a>
+
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+																				<div class="dropdown-block__actions">
+				<a href="mailto:sa&#108;es&#45;&#112;ano&#114;&#97;ma&#64;c&#111;&#100;&#114;a&#46;&#102;r" class="btn btn-special btn-rotate btn--large" >
+					<i class="ico-arrow-small--right"></i>
+
+					<span class="btn__content">
+						<span class="btn__top">
+							<span class="btn__inner">
+								Ask for a quote							</span>
+						</span>
+
+						<span class="btn__bottom" data-content="Ask for a quote">
+						</span>
+					</span>
+				</a>
+			</div><!-- /.dropdown-block__actions -->
+																					</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size1 -->
+
+				<div class="dropdown-col dropdown-col--size2 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Software Engineering</p>
+							</div><!-- /.dropdown-block__title -->
+						
+						 							<div class="dropdown-block__links">
+								<ul>
+																													<li class="">
+											<a href="https://codra.net/en/soon-available/">
+												Tests Systemes*											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/soon-available/">
+												Automation and Control Command*											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/soon-available/">
+												Scientific Software*											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/soon-available/">
+												Embedded &amp; Real Time Systems*											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/soon-available/">
+												Communication Protocols*											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/soon-available/">
+												Dedicated Information System*											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/soon-available/">
+												Maintenance &amp;  Sustainability / Systems redesign*											</a>
+
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+
+																		</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size2 -->
+			</div><!-- /.dropdown-cols -->
+		</div>
+		  </li>
+<li id="menu-item-1585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1585 menu-item-has-children"><a href="#">Services</a>		<div class="dropdown dropdown--type-2 dropdown--type-3 dropdown--type-4">
+			<div class="dropdown-cols">
+				<div class="dropdown-col dropdown-col--size1 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Panorama Platform</p>
+							</div><!-- /.dropdown-block__title -->
+						
+													<div class="dropdown-block__links">
+								<ul>
+																													<li class="">
+											<a href="https://codra.net/en/service/expert-panorama/">
+												Product Expertise											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/service/training-courses/">
+												Our training courses											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/service/software-maintenance/">
+												Software Maintenance											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/service/training-session/">
+												Training Calendar											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/service/technical-support/">
+												Support											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/service/csirt-security-bulletins/">
+												Security Bulletins &#038; CSIRT											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://esupport.codra.net/en">
+												Technical site											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/software-offering/scada-platform/supported-version/">
+												Supported Versions											</a>
+
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+																		</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size1 -->
+
+				<div class="dropdown-col dropdown-col--size2 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Software Engineering</p>
+							</div><!-- /.dropdown-block__title -->
+						
+						 							<div class="dropdown-block__links">
+								<ul>
+																													<li class="">
+											<a href="https://codra.net/en/coming-soon-services/">
+												Project assistance*											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/coming-soon-services/">
+												Daily basis assistance*											</a>
+
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+
+																		</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size2 -->
+			</div><!-- /.dropdown-cols -->
+		</div>
+		  </li>
+<li id="menu-item-1586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1586"><a href="#">Partners</a>
+<div class="dropdown dropdown--type-1"><div class="dropdown-links"><ul class="sub-menu">
+	<li id="menu-item-13800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13800"><a href="https://codra.net/en/partner/partners-institutionnal-business/">Business Partners</a></li>
+	<li id="menu-item-10821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10821"><a href="https://codra.net/en/partner/find/">Find a Partner</a></li>
+	<li id="menu-item-10820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10820"><a href="https://codra.net/en/partner/technology-partner/">Technical Partner</a></li>
+</ul></div></div>
+</li>
+<li id="menu-item-10894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10894"><a href="https://codra.net/en/news/">News</a></li>
+<li id="menu-item-1587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1587"><a href="#">Codra</a>
+<div class="dropdown dropdown--type-1"><div class="dropdown-links"><ul class="sub-menu">
+	<li id="menu-item-10732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10732"><a href="https://codra.net/en/codra-company/about-us/">About Us</a></li>
+	<li id="menu-item-10734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10734"><a href="https://codra.net/en/codra-company/offices/">Our branch offices</a></li>
+	<li id="menu-item-10733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10733"><a href="https://codra.net/en/codra-company/careers/job-offer/">Join us</a></li>
+</ul></div></div>
+</li>
+</ul></nav>                </div><!-- /.header__bar-nav -->
+
+                
+                <div class="header__bar-actions">
+                    <ul class="utilities">
+                        <li class="utilities-search">
+                            <a href="#">
+                                <i class="ico-search"></i>
+                            </a>
+                        </li><!-- /.utilities-search -->
+
+                                                    <li class="utilities-user">
+                                <a href="https://esupport.codra.net/en" target="_blank">
+                                    <i class="ico-user"></i>
+                                </a>
+                            </li><!-- /.utilities-user -->
+                        
+                                                    <li class="utilities-lang-menu">
+                                <div class="lang-menu">
+                                    <a class="current-language-container" href="#">
+                                        <div class="lang__image">
+                                            <img src="https://codra.net/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="">
+                                        </div><!-- /.lang__image -->
+
+                                        <span class="lang-selector">
+											en										</span>
+                                    </a>
+
+                                    <ul id="menu-language-menu" class="menu lang-dropdown"><li id="menu-item-wpml-ls-77-fr" class="menu-item wpml-ls-slot-77 wpml-ls-item wpml-ls-item-fr wpml-ls-menu-item wpml-ls-first-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-77-fr"><a title="fr" href="https://codra.net/fr/"><img class="wpml-ls-flag" src="https://codra.net/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" alt="fr" title="fr"><span class="wpml-ls-display">fr</span></a></li>
+</ul>
+
+                                </div><!-- /.lang-menu -->
+                            </li><!-- /.utilities-lang-menu -->
+                                            </ul><!-- /.utilities -->
+                </div><!-- /.header__bar-actions -->
+            </div><!-- /.shell -->
+        </div><!-- /.header__bar -->
+
+        <div class="header__body">
+            <div class="shell">
+                <nav class="nav"><ul id="menu-header-menu-anglais-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10766 menu-item-has-children"><a href="#">Sectors</a>		<div class="dropdown dropdown--type-2 dropdown--type-3">
+			<div class="dropdown-cols">
+				<div class="dropdown-col dropdown-col--size1 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Panorama Platform</p>
+							</div><!-- /.dropdown-block__title -->
+						
+													<div class="dropdown-block__links">
+								<ul>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/building-management-system-bms/">
+												Building Management											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/transportation/">
+												Transportation											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/power-energy/">
+												Energy											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/nuclear/">
+												Nuclear											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/water-wastewater/">
+												Water											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/process-industry-manufacturing/">
+												Industry											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/defence/">
+												Defence											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/supervisory-control/reseach-and-development/">
+												Research											</a>
+
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+																		</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size1 -->
+
+				<div class="dropdown-col dropdown-col--size2 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Software Engineering</p>
+							</div><!-- /.dropdown-block__title -->
+						
+						 							<div class="dropdown-block__links">
+								<ul>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/software-engineering/development/">
+												Research											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/software-engineering/energy/">
+												Energy											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/software-engineering/industry/">
+												Industry											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/sectors/software-engineering/transportation/">
+												Transportation											</a>
+
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+
+																		</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size2 -->
+			</div><!-- /.dropdown-cols -->
+		</div>
+		  </li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1583 menu-item-has-children"><a href="#">Solutions</a>		<div class="dropdown dropdown--type-2 ">
+			<div class="dropdown-cols">
+				<div class="dropdown-col dropdown-col--size1 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Panorama Platform</p>
+							</div><!-- /.dropdown-block__title -->
+						
+													<div class="dropdown-block__links">
+								<ul>
+																													<li class="menu-item-has-children">
+											<a href="https://codra.net/en/solution/software-platform/communicate/">
+												Communicate											</a>
+
+																							<ul class="sub-menu">
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/communicate/real-time/">
+																Real Time															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/communicate/iot/">
+																IoT															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/communicate/telemetry/">
+																Telemetry															</a>
+														</li>
+																									</ul><!-- /.sub-menu -->
+																					</li>
+																													<li class="menu-item-has-children">
+											<a href="https://codra.net/en/solution/software-platform/scada/">
+												Supervise											</a>
+
+																							<ul class="sub-menu">
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/scada/hmi/">
+																HMI															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/scada/supervision/">
+																SCADA															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/scada/hypervisory-system/">
+																Hypervision															</a>
+														</li>
+																									</ul><!-- /.sub-menu -->
+																					</li>
+																													<li class="menu-item-has-children">
+											<a href="https://codra.net/en/solution/software-platform/analyse/">
+												Analyse											</a>
+
+																							<ul class="sub-menu">
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/analyse/historisation-archiving/">
+																Historian															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/software-platform/analyse/dashboard/">
+																Reports and dashboards															</a>
+														</li>
+																									</ul><!-- /.sub-menu -->
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+																		</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size1 -->
+
+				<div class="dropdown-col dropdown-col--size2 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Software Engineering</p>
+							</div><!-- /.dropdown-block__title -->
+						
+						 							<div class="dropdown-block__links">
+								<ul>
+																													<li class="menu-item-has-children">
+											<a href="#">
+												Technologies											</a>
+
+																							<ul class="sub-menu">
+																																									<li class="">
+															<a href="https://codra.net/en/solution/tailor-made/distributed-architectures/">
+																Distributed architectures															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/tailor-made/operating-system/">
+																Operating systems															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/tailor-made/web-service-and-soa/">
+																Web services and SOA															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/tailor-made/object-oriented-programmation/">
+																Object-oriented programmation															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/solution/tailor-made/gis/">
+																Geographic Information System															</a>
+														</li>
+																									</ul><!-- /.sub-menu -->
+																					</li>
+																													<li class="menu-item-has-children">
+											<a href="#">
+												Methodes											</a>
+
+																							<ul class="sub-menu">
+																																									<li class="">
+															<a href="/en/Coming-soon-solutions/">
+																V Model*															</a>
+														</li>
+																																									<li class="">
+															<a href="/en/Coming-soon-solutions/">
+																Agile methods*															</a>
+														</li>
+																									</ul><!-- /.sub-menu -->
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+
+																		</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size2 -->
+			</div><!-- /.dropdown-cols -->
+		</div>
+		  </li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1584 menu-item-has-children"><a href="#">Our Offering</a>		<div class="dropdown dropdown--type-2  dropdown--type-4">
+			<div class="dropdown-cols">
+				<div class="dropdown-col dropdown-col--size1 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Panorama Platform</p>
+							</div><!-- /.dropdown-block__title -->
+						
+													<div class="dropdown-block__links">
+								<ul>
+																													<li class="menu-item-has-children">
+											<a href="https://codra.net/en/offer/panorama-suite-software-platform/">
+												Panorama Suite											</a>
+
+																							<ul class="sub-menu">
+																																									<li class="">
+															<a href="https://codra.net/en/software-offering/scada-platform/panorama-suite-software/panorama-e2/">
+																Panorama E2															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/software-offering/scada-platform/panorama-suite-software/panorama-h2/">
+																Panorama H2															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/software-offering/scada-platform/panorama-suite-software/panorama-com/">
+																Panorama COM															</a>
+														</li>
+																									</ul><!-- /.sub-menu -->
+																					</li>
+																													<li class="menu-item-has-children">
+											<a href="#">
+												Our business Solutions											</a>
+
+																							<ul class="sub-menu">
+																																									<li class="">
+															<a href="/en/offer/energy-efficiency/">
+																Energy efficiency															</a>
+														</li>
+																																									<li class="">
+															<a href="/en/software-offering/scada-platform/panorama-suite-software/panorama-e2/security-pack/">
+																Security Pack															</a>
+														</li>
+																																									<li class="">
+															<a href="https://codra.net/en/software-offering/scada-platform/bim-operation/">
+																Building Information Modeling															</a>
+														</li>
+																									</ul><!-- /.sub-menu -->
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/software-offering/scada-platform/panorama-p2/">
+												Panorama P2											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/software-offering/scada-platform/cybersecurity/">
+												Cybersecurity											</a>
+
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+																				<div class="dropdown-block__actions">
+				<a href="mailto:&#115;&#97;l&#101;s-&#112;an&#111;&#114;&#97;ma&#64;c&#111;&#100;ra.fr" class="btn btn-special btn-rotate btn--large" >
+					<i class="ico-arrow-small--right"></i>
+
+					<span class="btn__content">
+						<span class="btn__top">
+							<span class="btn__inner">
+								Ask for a quote							</span>
+						</span>
+
+						<span class="btn__bottom" data-content="Ask for a quote">
+						</span>
+					</span>
+				</a>
+			</div><!-- /.dropdown-block__actions -->
+																					</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size1 -->
+
+				<div class="dropdown-col dropdown-col--size2 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Software Engineering</p>
+							</div><!-- /.dropdown-block__title -->
+						
+						 							<div class="dropdown-block__links">
+								<ul>
+																													<li class="">
+											<a href="https://codra.net/en/soon-available/">
+												Tests Systemes*											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/soon-available/">
+												Automation and Control Command*											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/soon-available/">
+												Scientific Software*											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/soon-available/">
+												Embedded &amp; Real Time Systems*											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/soon-available/">
+												Communication Protocols*											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/soon-available/">
+												Dedicated Information System*											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/soon-available/">
+												Maintenance &amp;  Sustainability / Systems redesign*											</a>
+
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+
+																		</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size2 -->
+			</div><!-- /.dropdown-cols -->
+		</div>
+		  </li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1585 menu-item-has-children"><a href="#">Services</a>		<div class="dropdown dropdown--type-2 dropdown--type-3 dropdown--type-4">
+			<div class="dropdown-cols">
+				<div class="dropdown-col dropdown-col--size1 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Panorama Platform</p>
+							</div><!-- /.dropdown-block__title -->
+						
+													<div class="dropdown-block__links">
+								<ul>
+																													<li class="">
+											<a href="https://codra.net/en/service/expert-panorama/">
+												Product Expertise											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/service/training-courses/">
+												Our training courses											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/service/software-maintenance/">
+												Software Maintenance											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/service/training-session/">
+												Training Calendar											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/service/technical-support/">
+												Support											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/service/csirt-security-bulletins/">
+												Security Bulletins &#038; CSIRT											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://esupport.codra.net/en">
+												Technical site											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/software-offering/scada-platform/supported-version/">
+												Supported Versions											</a>
+
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+																		</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size1 -->
+
+				<div class="dropdown-col dropdown-col--size2 ">
+					<div class="dropdown-block">
+													<div class="dropdown-block__title">
+								<p>Software Engineering</p>
+							</div><!-- /.dropdown-block__title -->
+						
+						 							<div class="dropdown-block__links">
+								<ul>
+																													<li class="">
+											<a href="https://codra.net/en/coming-soon-services/">
+												Project assistance*											</a>
+
+																					</li>
+																													<li class="">
+											<a href="https://codra.net/en/coming-soon-services/">
+												Daily basis assistance*											</a>
+
+																					</li>
+																	</ul>
+							</div><!-- /.dropdown-block__links -->
+
+																		</div><!-- /.dropdown-block -->
+				</div><!-- /.dropdown-col dropdown-col-/-size2 -->
+			</div><!-- /.dropdown-cols -->
+		</div>
+		  </li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1586"><a href="#">Partners</a>
+<div class="dropdown dropdown--type-1"><div class="dropdown-links"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13800"><a href="https://codra.net/en/partner/partners-institutionnal-business/">Business Partners</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10821"><a href="https://codra.net/en/partner/find/">Find a Partner</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10820"><a href="https://codra.net/en/partner/technology-partner/">Technical Partner</a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10894"><a href="https://codra.net/en/news/">News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1587"><a href="#">Codra</a>
+<div class="dropdown dropdown--type-1"><div class="dropdown-links"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10732"><a href="https://codra.net/en/codra-company/about-us/">About Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10734"><a href="https://codra.net/en/codra-company/offices/">Our branch offices</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10733"><a href="https://codra.net/en/codra-company/careers/job-offer/">Join us</a></li>
+</ul></div></div>
+</li>
+</ul></nav>            </div><!-- /.shell -->
+        </div><!-- /.header__body -->
+
+        <div class="nav-mobile">
+            <div class="nav-mobile__head">
+                <form action="https://codra.net/en/" class="search-form" method="get" role="search">
+	<i class="ico-search"></i>
+
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+
+		<input type="text" title="Search for:" name="s" value="" placeholder="Search &hellip;" class="search__field" />
+	</label>
+	
+	<button type="submit" class="search__btn screen-reader-text">
+		Search	</button>
+
+	<a href="#" class="btn btn-close">
+		<i class="ico-close"></i>
+	</a>
+</form>            </div><!-- /.nav-mobile__head -->
+
+            <nav class="nav-mobile__body"><ul id="menu-header-menu-mobile-en" class="menu"><li id="menu-item-1694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1694"><a href="#">Sectors</a>
+<ul class="sub-menu">
+	<li id="menu-item-10785" class="menu-item menu-item-type-post_type menu-item-object-crb_sector menu-item-10785"><a href="https://codra.net/en/sectors/supervisory-control/building-management-system-bms/">Building Management</a></li>
+	<li id="menu-item-10784" class="menu-item menu-item-type-post_type menu-item-object-crb_sector menu-item-10784"><a href="https://codra.net/en/sectors/supervisory-control/transportation/">Transportation</a></li>
+	<li id="menu-item-10779" class="menu-item menu-item-type-post_type menu-item-object-crb_sector menu-item-10779"><a href="https://codra.net/en/sectors/supervisory-control/nuclear/">Nuclear</a></li>
+	<li id="menu-item-10786" class="menu-item menu-item-type-post_type menu-item-object-crb_sector menu-item-10786"><a href="https://codra.net/en/sectors/supervisory-control/power-energy/">Energy</a></li>
+	<li id="menu-item-10780" class="menu-item menu-item-type-post_type menu-item-object-crb_sector menu-item-10780"><a href="https://codra.net/en/sectors/supervisory-control/water-wastewater/">Water</a></li>
+	<li id="menu-item-10781" class="menu-item menu-item-type-post_type menu-item-object-crb_sector menu-item-10781"><a href="https://codra.net/en/sectors/supervisory-control/process-industry-manufacturing/">Industry</a></li>
+	<li id="menu-item-10783" class="menu-item menu-item-type-post_type menu-item-object-crb_sector menu-item-10783"><a href="https://codra.net/en/sectors/supervisory-control/defence/">Defense</a></li>
+	<li id="menu-item-10782" class="menu-item menu-item-type-post_type menu-item-object-crb_sector menu-item-10782"><a href="https://codra.net/en/sectors/supervisory-control/reseach-and-development/">Research</a></li>
+</ul>
+</li>
+<li id="menu-item-10788" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10788"><a href="#">Solutions</a>
+<ul class="sub-menu">
+	<li id="menu-item-10926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10926"><a href="#">Communication</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10801"><a href="https://codra.net/en/solution/software-platform/communicate/">Our Communication Solutions</a></li>
+		<li id="menu-item-10794" class="menu-item menu-item-type-post_type menu-item-object-crb_solution menu-item-10794"><a href="https://codra.net/en/solution/software-platform/communicate/real-time/">Real Time</a></li>
+		<li id="menu-item-10797" class="menu-item menu-item-type-post_type menu-item-object-crb_solution menu-item-10797"><a href="https://codra.net/en/solution/software-platform/communicate/iot/">IoT</a></li>
+		<li id="menu-item-10795" class="menu-item menu-item-type-post_type menu-item-object-crb_solution menu-item-10795"><a href="https://codra.net/en/solution/software-platform/communicate/telemetry/">Telemetry</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10927" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10927"><a href="#">Supervision</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10802"><a href="https://codra.net/en/solution/software-platform/scada/">Our Supervision Solution</a></li>
+		<li id="menu-item-10799" class="menu-item menu-item-type-post_type menu-item-object-crb_solution menu-item-10799"><a href="https://codra.net/en/?post_type=crb_solution&#038;p=9978">HMI</a></li>
+		<li id="menu-item-10792" class="menu-item menu-item-type-post_type menu-item-object-crb_solution menu-item-10792"><a href="https://codra.net/en/solution/software-platform/scada/supervision/">SCADA</a></li>
+		<li id="menu-item-10793" class="menu-item menu-item-type-post_type menu-item-object-crb_solution menu-item-10793"><a href="https://codra.net/en/solution/software-platform/scada/hypervisory-system/">Hypervision</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10928" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10928"><a href="#">Analysis</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10803"><a href="https://codra.net/en/solution/software-platform/analyse/">Our Analysis Solutions</a></li>
+		<li id="menu-item-10798" class="menu-item menu-item-type-post_type menu-item-object-crb_solution menu-item-10798"><a href="https://codra.net/en/solution/software-platform/analyse/historisation-archiving/">Data Historian</a></li>
+		<li id="menu-item-10796" class="menu-item menu-item-type-post_type menu-item-object-crb_solution menu-item-10796"><a href="https://codra.net/en/solution/software-platform/analyse/dashboard/">Reports &#038; Dashboards</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-10805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10805"><a href="#">Our Offering</a>
+<ul class="sub-menu">
+	<li id="menu-item-10809" class="menu-item menu-item-type-post_type menu-item-object-crb_offer_form menu-item-10809"><a href="https://codra.net/en/offer/panorama-suite-software-platform/">Panorama Suite – Software Platform</a></li>
+	<li id="menu-item-10810" class="menu-item menu-item-type-post_type menu-item-object-crb_offer_form menu-item-10810"><a href="https://codra.net/en/software-offering/scada-platform/panorama-suite-software/panorama-e2/">Panorama E2 – SCADA</a></li>
+	<li id="menu-item-10808" class="menu-item menu-item-type-post_type menu-item-object-crb_offer_form menu-item-10808"><a href="https://codra.net/en/software-offering/scada-platform/panorama-suite-software/panorama-h2/">Panorama H2 – Data Historian &#038; Reporting</a></li>
+	<li id="menu-item-10807" class="menu-item menu-item-type-post_type menu-item-object-crb_offer_form menu-item-10807"><a href="https://codra.net/en/software-offering/scada-platform/panorama-suite-software/panorama-com/">Panorama COM – Communication front end</a></li>
+	<li id="menu-item-14501" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14501"><a href="https://codra.net/en/software-offering/scada-platform/panorama-suite-software/panorama-e2/security-pack">Security Pack</a></li>
+	<li id="menu-item-17347" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17347"><a href="https://codra.net/en/software-offering/scada-platform/cybersecurity/">Cybersecurity</a></li>
+	<li id="menu-item-17348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17348"><a href="http://codra.net/en/offer/energy-efficiency/">Energy Efficiency</a></li>
+	<li id="menu-item-17346" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17346"><a href="https://codra.net/en/software-offering/scada-platform/bim-operation/">Building Information Modeling</a></li>
+</ul>
+</li>
+<li id="menu-item-10812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10812"><a href="#">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-10816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10816"><a href="https://codra.net/en/service/expert-panorama/">Expert Team</a></li>
+	<li id="menu-item-10817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10817"><a href="https://codra.net/en/service/software-maintenance/">Software Maintenance</a></li>
+	<li id="menu-item-10818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10818"><a href="https://codra.net/en/service/technical-support/">Technical Support</a></li>
+	<li id="menu-item-13096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13096"><a href="https://codra.net/en/service/training-courses/">Training courses</a></li>
+	<li id="menu-item-13097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13097"><a href="https://codra.net/en/service/training-session/">Training Calendar</a></li>
+	<li id="menu-item-10819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10819"><a href="https://codra.net/en/service/csirt-security-bulletins/">Security Bulletins &#038; CSIRT</a></li>
+</ul>
+</li>
+<li id="menu-item-10813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10813"><a href="#">Partners</a></li>
+<li id="menu-item-10822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10822"><a href="https://codra.net/en/news/">News</a></li>
+<li id="menu-item-10814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10814"><a href="#">Codra</a>
+<ul class="sub-menu">
+	<li id="menu-item-10823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10823"><a href="https://codra.net/en/codra-company/about-us/">About Us</a></li>
+	<li id="menu-item-10825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10825"><a href="https://codra.net/en/codra-company/offices/">Our branch offices</a></li>
+	<li id="menu-item-10824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10824"><a href="https://codra.net/en/codra-company/careers/job-offer/">Join us</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10821"><a href="https://codra.net/en/partner/find/">Find a Partner</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10820"><a href="https://codra.net/en/partner/technology-partner/">Technical Partner</a></li>
+</ul></nav>
+                            <div class="nav-mobile__foot">
+                    <nav class="nav-lang">
+                        <ul id="menu-language-menu-1" class="menu">		<li class="menu-item current-language-container wpml-ls-menu-item">
+			<a href="#">
+				<img class="wpml-ls-flag" src="https://codra.net/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="">
+
+				<span class="wpml-ls-display">
+					en				</span>
+			</a>
+		</li>
+	<li class="menu-item wpml-ls-slot-77 wpml-ls-item wpml-ls-item-fr wpml-ls-menu-item wpml-ls-first-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-77-fr"><a title="fr" href="https://codra.net/fr/"><img class="wpml-ls-flag" src="https://codra.net/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" alt="fr" title="fr"><span class="wpml-ls-display">fr</span></a></li>
+</ul>                    </nav><!-- /.nav-lang -->
+                </div><!-- /.nav-mobile__foot -->
+                    </div><!-- /.nav-mobile -->
+    </header><!-- /.header -->
+
+    <div class="wrapper__inner">
+
+<section class="section-hero section--video section--home" style="background-image: url(https://codra.net/wp-content/uploads/2021/03/Codra-accueil.png");>
+	<div class="video video--bg" data-video-width="1920" data-video-height="1080">
+		<video autoplay muted loop>
+			<source src="" type="" />
+		</video>
+	</div><!-- /.video video-/-bg -->
+
+			<div class="mobile-image" style="background-image: url(https://codra.net/wp-content/uploads/2018/06/scada-hypervisory.jpg);"></div><!-- /.mobile-image -->
+	
+			<div class="shell">
+			<div class="section__entry animate-item transition-item">
+									<div class="section__title">SCADA &amp; Industrial Information Systems</div>
+				
+									<p>
+						<a href="https://www.youtube.com/watch?v=Qc1tUyity0k" class="btn btn-play--video">
+							What is Panorama SCADA ?						</a>
+					</p>
+							</div><!-- /.section__entry -->
+		</div><!-- /.shell -->
+	
+			
+		<div class="slider--small animate-item transition-item ">
+			<div class="slider__clip">
+				<div class="slider__controls"></div><!-- /.slider__controls -->
+
+				<div class="slider__slides">
+																	<div class="slider__slide">
+							<div class="slider__slide-image">
+								<div class="slider__slide-inner">
+									<a href="https://codra.net/en/news/2021/12/webinar-codra-x-genetec/">
+										<img src="https://codra.net/wp-content/uploads/2021/12/image-mise-en-avant_360x360-Codra-with-Genetec-360x180.png" alt="" />
+									</a>
+								</div><!-- /.slider__slide-inner -->
+							</div><!-- /.slider__slide-image -->
+
+							<div class="slider__slide-content">
+								<article class="article article--small">
+									<div class="article__subtitle">Event</div>
+
+									<div class="article__title">
+										<a href="https://codra.net/en/news/2021/12/webinar-codra-x-genetec/">
+											Webinar Codra x Genetec										</a>
+									</div>
+
+									<div class="artile__entry">
+										<p>
+											<a href="https://codra.net/en/news/2021/12/webinar-codra-x-genetec/" class="btn btn-link btn-more">
+												Read more												<span class="btn__arrow">
+													<i class="arrow"></i>
+												</span>
+											</a>
+										</p>
+									</div><!-- /.artile__entry -->
+								</article><!-- /.article article-/-small -->
+							</div><!-- /.slider__slide-content -->
+						</div><!-- /.slider__slide -->
+																	<div class="slider__slide">
+							<div class="slider__slide-image">
+								<div class="slider__slide-inner">
+									<a href="https://codra.net/en/news/2021/12/codra-2021-review/">
+										<img src="https://codra.net/wp-content/uploads/2021/12/bilan-codra-2021-front-360x180.jpg" alt="" />
+									</a>
+								</div><!-- /.slider__slide-inner -->
+							</div><!-- /.slider__slide-image -->
+
+							<div class="slider__slide-content">
+								<article class="article article--small">
+									<div class="article__subtitle">Article</div>
+
+									<div class="article__title">
+										<a href="https://codra.net/en/news/2021/12/codra-2021-review/">
+											Codra 2021 Review										</a>
+									</div>
+
+									<div class="artile__entry">
+										<p>
+											<a href="https://codra.net/en/news/2021/12/codra-2021-review/" class="btn btn-link btn-more">
+												Read more												<span class="btn__arrow">
+													<i class="arrow"></i>
+												</span>
+											</a>
+										</p>
+									</div><!-- /.artile__entry -->
+								</article><!-- /.article article-/-small -->
+							</div><!-- /.slider__slide-content -->
+						</div><!-- /.slider__slide -->
+																	<div class="slider__slide">
+							<div class="slider__slide-image">
+								<div class="slider__slide-inner">
+									<a href="https://codra.net/en/software-offering/scada-platform/bim-operation/">
+										<img src="https://codra.net/wp-content/uploads/2021/04/BIM_Exploitation_360x360-360x180.png" alt="" />
+									</a>
+								</div><!-- /.slider__slide-inner -->
+							</div><!-- /.slider__slide-image -->
+
+							<div class="slider__slide-content">
+								<article class="article article--small">
+									<div class="article__subtitle">Technical focus</div>
+
+									<div class="article__title">
+										<a href="https://codra.net/en/software-offering/scada-platform/bim-operation/">
+											Building Information Modeling										</a>
+									</div>
+
+									<div class="artile__entry">
+										<p>
+											<a href="https://codra.net/en/software-offering/scada-platform/bim-operation/" class="btn btn-link btn-more">
+												Read more												<span class="btn__arrow">
+													<i class="arrow"></i>
+												</span>
+											</a>
+										</p>
+									</div><!-- /.artile__entry -->
+								</article><!-- /.article article-/-small -->
+							</div><!-- /.slider__slide-content -->
+						</div><!-- /.slider__slide -->
+																	<div class="slider__slide">
+							<div class="slider__slide-image">
+								<div class="slider__slide-inner">
+									<a href="https://codra.net/en/news/2021/03/webinar-video-ergonomic-hmi-and-application-design/">
+										<img src="https://codra.net/wp-content/uploads/2021/02/article_webinar_design.png" alt="" />
+									</a>
+								</div><!-- /.slider__slide-inner -->
+							</div><!-- /.slider__slide-image -->
+
+							<div class="slider__slide-content">
+								<article class="article article--small">
+									<div class="article__subtitle">Webinar</div>
+
+									<div class="article__title">
+										<a href="https://codra.net/en/news/2021/03/webinar-video-ergonomic-hmi-and-application-design/">
+											Webinar video: Ergonomic HMI and Application Design										</a>
+									</div>
+
+									<div class="artile__entry">
+										<p>
+											<a href="https://codra.net/en/news/2021/03/webinar-video-ergonomic-hmi-and-application-design/" class="btn btn-link btn-more">
+												Read more												<span class="btn__arrow">
+													<i class="arrow"></i>
+												</span>
+											</a>
+										</p>
+									</div><!-- /.artile__entry -->
+								</article><!-- /.article article-/-small -->
+							</div><!-- /.slider__slide-content -->
+						</div><!-- /.slider__slide -->
+									</div><!-- /.slider__slides -->
+			</div><!-- /.slider__clip -->
+		</div><!-- /.slider-.-small -->
+	
+	<a href="#" class="btn btn-scroll--down">scroll down</a>
+</section><!-- /.section-hero section-/-video -->
+
+	<section class="section section-block section-block--right animate-item transition-item" style="background-color: #f6f6f6;">
+		<div class="section__entry">
+			<h2>Two core businesses, one way of doing things</h2><p>In addition to being the developer of the Panorama Suite Platform, with over 40,000 licenses deployed worldwide, Codra has established a proud reputation for applying the same meticulous, customer-centered and agile approach to its software engineering business. For more than 30 years, we have devoted our business, along with our partners, to the automation, computerization and now the digital transformation of our customers. </p>		</div><!-- /.section__entry -->
+	</section><!-- /.section section-block section-block-/-right -->
+
+<section class="section section-slider section-slider--large animate-item transition-item">
+	<div class="shell">
+					<div class="section__head">
+									<div class="section__head--left">
+						<div class="slider__title">Your SECTOR</div>
+					</div><!-- /.section__head-/-left -->
+				
+									<div class="section__head--right">
+						<p>Discover many practical applications in different areas of activity  SCADA / Hypervision &amp; Engineering Projects in Scientific and Technical Industrial Computing.</p>
+					</div><!-- /.section__head-/-right -->
+							</div><!-- /.section__head -->
+		
+		<div class="section__body">
+			<div class="slider--large">
+				<span class="slider__artwork"></span>
+
+				<div class="slider__clip">
+					<div class="slider__controls"></div><!-- /.slider__controls -->
+
+					<div class="slider__slides">
+																				<div class="slider__slide">
+								<div class="slider__slide-actions">
+									<a href="https://codra.net/en/sectors/supervisory-control/nuclear/" class="btn btn-link--alt">
+										Nuclear										<span class="btn__arrow">
+											<i class="arrow"></i>
+										</span>
+									</a>
+
+									<strong>Panorama SCADA</strong>
+								</div><!-- /.slider__slide-actions -->
+
+								<div class="slider__slide-image" style="background-image: url(https://codra.net/wp-content/uploads/2018/10/secteur-first-nucleaire.jpg);"></div><!-- /.slider__slide-image -->
+
+								<div class="slider__slide-overlay">
+									<a href="https://codra.net/en/sectors/supervisory-control/nuclear/">
+										<article class="article--small">
+											<div class="article__subtitle" style="margin-bottom: 30px;">Defense, Electricity, Nuclear, Power, Recycling, Treatment, V.I.O.</div>											<p>longstanding, historical in-depth expertise in this sector for Codra, birthplace of Panorama (...)</p>
+										</article><!-- /.article-/-small -->
+									</a>
+								</div><!-- /.slider__slide-overlay -->
+							</div><!-- /.slider__slide -->
+																				<div class="slider__slide">
+								<div class="slider__slide-actions">
+									<a href="https://codra.net/en/sectors/supervisory-control/water-wastewater/" class="btn btn-link--alt">
+										Water										<span class="btn__arrow">
+											<i class="arrow"></i>
+										</span>
+									</a>
+
+									<strong>Panorama SCADA</strong>
+								</div><!-- /.slider__slide-actions -->
+
+								<div class="slider__slide-image" style="background-image: url(https://codra.net/wp-content/uploads/2018/10/secteur-first-eau.jpg);"></div><!-- /.slider__slide-image -->
+
+								<div class="slider__slide-overlay">
+									<a href="https://codra.net/en/sectors/supervisory-control/water-wastewater/">
+										<article class="article--small">
+											<div class="article__subtitle" style="margin-bottom: 30px;">Distribution, Hydraulic, Recycling, Treatment, V.I.O., Waterway</div>											<p>Codra is proud to support the major players in the sector by providing robust and secure solutions that are ideal for responding to the challenges of Integrated Water Resources Management ( (...)</p>
+										</article><!-- /.article-/-small -->
+									</a>
+								</div><!-- /.slider__slide-overlay -->
+							</div><!-- /.slider__slide -->
+																				<div class="slider__slide">
+								<div class="slider__slide-actions">
+									<a href="https://codra.net/en/sectors/supervisory-control/reseach-and-development/" class="btn btn-link--alt">
+										Research 										<span class="btn__arrow">
+											<i class="arrow"></i>
+										</span>
+									</a>
+
+									<strong>Panorama SCADA</strong>
+								</div><!-- /.slider__slide-actions -->
+
+								<div class="slider__slide-image" style="background-image: url(https://codra.net/wp-content/uploads/2018/10/success-popd-andra.jpg);"></div><!-- /.slider__slide-image -->
+
+								<div class="slider__slide-overlay">
+									<a href="https://codra.net/en/sectors/supervisory-control/reseach-and-development/">
+										<article class="article--small">
+											<div class="article__subtitle" style="margin-bottom: 30px;">Electricity, Hydraulic, Oil &amp; Gas, Research, Solar, Wind</div>											<p>Our know-how and expertise in SCADA software development has enabled us to be involved in major scientific and technical research projects, both French and European. (...)</p>
+										</article><!-- /.article-/-small -->
+									</a>
+								</div><!-- /.slider__slide-overlay -->
+							</div><!-- /.slider__slide -->
+																				<div class="slider__slide">
+								<div class="slider__slide-actions">
+									<a href="https://codra.net/en/sectors/supervisory-control/process-industry-manufacturing/" class="btn btn-link--alt">
+										Industry										<span class="btn__arrow">
+											<i class="arrow"></i>
+										</span>
+									</a>
+
+									<strong>Panorama SCADA</strong>
+								</div><!-- /.slider__slide-actions -->
+
+								<div class="slider__slide-image" style="background-image: url(https://codra.net/wp-content/uploads/2018/06/secteur-first-industrie.jpg);"></div><!-- /.slider__slide-image -->
+
+								<div class="slider__slide-overlay">
+									<a href="https://codra.net/en/sectors/supervisory-control/process-industry-manufacturing/">
+										<article class="article--small">
+											<div class="article__subtitle" style="margin-bottom: 30px;">Defense, Facility Management, Food &amp; Beverage, V.I.O.</div>											<p>Accelerate and plan your digital transformation. (...)</p>
+										</article><!-- /.article-/-small -->
+									</a>
+								</div><!-- /.slider__slide-overlay -->
+							</div><!-- /.slider__slide -->
+																				<div class="slider__slide">
+								<div class="slider__slide-actions">
+									<a href="https://codra.net/en/sectors/supervisory-control/power-energy/" class="btn btn-link--alt">
+										Energy										<span class="btn__arrow">
+											<i class="arrow"></i>
+										</span>
+									</a>
+
+									<strong>Panorama SCADA</strong>
+								</div><!-- /.slider__slide-actions -->
+
+								<div class="slider__slide-image" style="background-image: url(https://codra.net/wp-content/uploads/2018/06/secteur-first-energie.jpg);"></div><!-- /.slider__slide-image -->
+
+								<div class="slider__slide-overlay">
+									<a href="https://codra.net/en/sectors/supervisory-control/power-energy/">
+										<article class="article--small">
+											<div class="article__subtitle" style="margin-bottom: 30px;">Electricity, Hydraulic, Oil &amp; Gas, Solar, Wind</div>											<p>From Electricity, through Oil  Gas and on to Renewables, Codra operates in all sectors of the energy business. (...)</p>
+										</article><!-- /.article-/-small -->
+									</a>
+								</div><!-- /.slider__slide-overlay -->
+							</div><!-- /.slider__slide -->
+																				<div class="slider__slide">
+								<div class="slider__slide-actions">
+									<a href="https://codra.net/en/sectors/supervisory-control/building-management-system-bms/" class="btn btn-link--alt">
+										FM &amp; BMS										<span class="btn__arrow">
+											<i class="arrow"></i>
+										</span>
+									</a>
+
+									<strong>Panorama SCADA</strong>
+								</div><!-- /.slider__slide-actions -->
+
+								<div class="slider__slide-image" style="background-image: url(https://codra.net/wp-content/uploads/2018/06/secteur-first-batiment.jpg);"></div><!-- /.slider__slide-image -->
+
+								<div class="slider__slide-overlay">
+									<a href="https://codra.net/en/sectors/supervisory-control/building-management-system-bms/">
+										<article class="article--small">
+											<div class="article__subtitle" style="margin-bottom: 30px;">Airport, Data Center, Energy performance, Facility Management, Stadium, Tertiary, Tunnel</div>											<p>Collecte all type of exploitation data into a single robust, intuitive and sustainable platform. (...)</p>
+										</article><!-- /.article-/-small -->
+									</a>
+								</div><!-- /.slider__slide-overlay -->
+							</div><!-- /.slider__slide -->
+																				<div class="slider__slide">
+								<div class="slider__slide-actions">
+									<a href="https://codra.net/en/sectors/supervisory-control/defence/" class="btn btn-link--alt">
+										Defence										<span class="btn__arrow">
+											<i class="arrow"></i>
+										</span>
+									</a>
+
+									<strong>Panorama SCADA</strong>
+								</div><!-- /.slider__slide-actions -->
+
+								<div class="slider__slide-image" style="background-image: url(https://codra.net/wp-content/uploads/2018/07/secteur-first-defense.jpg);"></div><!-- /.slider__slide-image -->
+
+								<div class="slider__slide-overlay">
+									<a href="https://codra.net/en/sectors/supervisory-control/defence/">
+										<article class="article--small">
+											<div class="article__subtitle" style="margin-bottom: 30px;">Defense, Electricity, Hydraulic, Oil &amp; Gas, Solar, Wind</div>											<p>We are proud to be a trusted partner and to be able to contribute to the excellence of the French and European Defence industry. (...)</p>
+										</article><!-- /.article-/-small -->
+									</a>
+								</div><!-- /.slider__slide-overlay -->
+							</div><!-- /.slider__slide -->
+																				<div class="slider__slide">
+								<div class="slider__slide-actions">
+									<a href="https://codra.net/en/sectors/supervisory-control/transportation/" class="btn btn-link--alt">
+										Transport &amp; Infrastructure										<span class="btn__arrow">
+											<i class="arrow"></i>
+										</span>
+									</a>
+
+									<strong>Panorama SCADA</strong>
+								</div><!-- /.slider__slide-actions -->
+
+								<div class="slider__slide-image" style="background-image: url(https://codra.net/wp-content/uploads/2018/07/secteur-first-transport.jpg);"></div><!-- /.slider__slide-image -->
+
+								<div class="slider__slide-overlay">
+									<a href="https://codra.net/en/sectors/supervisory-control/transportation/">
+										<article class="article--small">
+											<div class="article__subtitle" style="margin-bottom: 30px;">Airport, Electricity, Facility Management, Highway, Hydraulic, Naval, Railway, Tunnel, V.I.O., Waterway</div>											<p>Leverage digitization to increase the safety and efficiency of key infrastructures (...)</p>
+										</article><!-- /.article-/-small -->
+									</a>
+								</div><!-- /.slider__slide-overlay -->
+							</div><!-- /.slider__slide -->
+											</div><!-- /.slider__slides -->
+				</div><!-- /.slider__clip -->
+			</div><!-- /.slider-/-large -->
+		</div><!-- /.section__body -->
+	</div><!-- /.shell -->
+</section><!-- /.section section-slider section-slider-/-large -->
+
+	<section class="section section-block section-block--center animate-item transition-item" style="background-color: #f6f6f6;">
+		<div class="section__entry">
+			<h2>The Panorama Platform</h2><p>Forming the genuine backbone of your industrial information system, the Panorama Suite platform is where all of your operating data converges and is processed. Unify all of your data from automation systems, IoT objects, IT systems, etc., into a single SCADA / Hypervision application. Create bespoke applications or harness your data directly in Panorama’s expert modules.</p>		</div><!-- /.section__entry -->
+	</section><!-- /.section section-block section-block-/-center -->
+
+
+<section class="section section-split">
+	<div class="section__cols">
+		
+<div class="section__col">
+	<div class="section__col-image" style="background-image: url(https://codra.net/wp-content/uploads/2018/07/col-left.jpg);"></div><!-- /.section__col-image -->
+
+	<div class="split">
+					<div class="split__head">
+				<h2>SCADA</h2>			</div><!-- /.split__head -->
+		
+		<div class="split__body">
+			<div class="boxes animate-item transition-item">
+									<div class="box">
+						<div class="box__inner">
+							<a class="black-box-url" href="/en/software-offering/scada-platform/panorama-suite-software/panorama-e2" >
+								<h3>Supervise</h3>
+																	<div class="box__entry box__entry--hidden">
+										<p>HMI, SCADA, Hypervision</p>
+									</div><!-- /.box__entry box__entry-/-hidden -->
+								
+								
+																	<div
+									class="btn btn-link btn-link--alt"
+									>
+										Panorama E2
+										<span class="btn__arrow">
+											<i class="arrow"></i>
+										</span>
+									</div>
+															</a>						</div><!-- /.box__inner -->
+					</div><!-- /.box -->
+					<div class="box box--placeholder"></div>									<div class="box">
+						<div class="box__inner">
+							<a class="black-box-url" href="/en/software-offering/scada-platform/panorama-suite-software/panorama-h2" >
+								<h3>Analyse</h3>
+																	<div class="box__entry box__entry--hidden">
+										<p>Data Historian, Reporting &amp; Dashboarding</p>
+									</div><!-- /.box__entry box__entry-/-hidden -->
+								
+								
+																	<div
+									class="btn btn-link btn-link--alt"
+									>
+										Panorama H2
+										<span class="btn__arrow">
+											<i class="arrow"></i>
+										</span>
+									</div>
+															</a>						</div><!-- /.box__inner -->
+					</div><!-- /.box -->
+														<div class="box">
+						<div class="box__inner">
+							<a class="black-box-url" href="/en/software-offering/scada-platform/panorama-suite-software/panorama-com" >
+								<h3>Communicate</h3>
+																	<div class="box__entry box__entry--hidden">
+										<p>Real time, telemetry, IoT</p>
+									</div><!-- /.box__entry box__entry-/-hidden -->
+								
+								
+																	<div
+									class="btn btn-link btn-link--alt"
+									>
+										Panorama COM
+										<span class="btn__arrow">
+											<i class="arrow"></i>
+										</span>
+									</div>
+															</a>						</div><!-- /.box__inner -->
+					</div><!-- /.box -->
+									
+							</div><!-- /.boxes animate-item transition-item -->
+		</div><!-- /.split__body -->
+	</div><!-- /.split -->
+</div><!-- /.section__col -->
+<div class="section__col">
+	<div class="section__col-image" style="background-image: url(https://codra.net/wp-content/uploads/2018/07/col-right.jpg);"></div><!-- /.section__col-image -->
+
+	<div class="split">
+					<div class="split__head">
+				<h2>Expert modules</h2>			</div><!-- /.split__head -->
+		
+		<div class="split__body">
+			<div class="boxes animate-item transition-item">
+									<div class="box">
+						<div class="box__inner">
+							<a class="black-box-url" href="/en/Coming-soon" >
+								<h3>Energy Monitoring*</h3>
+																	<div class="box__entry box__entry--hidden">
+										<p>Coming soon</p>
+									</div><!-- /.box__entry box__entry-/-hidden -->
+								
+								
+																	<div
+									class="btn btn-link btn-link--alt"
+									>
+										Coming soon
+										<span class="btn__arrow">
+											<i class="arrow"></i>
+										</span>
+									</div>
+															</a>						</div><!-- /.box__inner -->
+					</div><!-- /.box -->
+														<div class="box">
+						<div class="box__inner">
+							<a class="black-box-url" href="/en/Coming-soon" >
+								<h3>Safety &amp; Security*</h3>
+																	<div class="box__entry box__entry--hidden">
+										<p>Coming soon</p>
+									</div><!-- /.box__entry box__entry-/-hidden -->
+								
+								
+																	<div
+									class="btn btn-link btn-link--alt"
+									>
+										Coming soon
+										<span class="btn__arrow">
+											<i class="arrow"></i>
+										</span>
+									</div>
+															</a>						</div><!-- /.box__inner -->
+					</div><!-- /.box -->
+									
+							</div><!-- /.boxes animate-item transition-item -->
+		</div><!-- /.split__body -->
+	</div><!-- /.split -->
+</div><!-- /.section__col -->	</div><!-- /.section__cols -->
+</section><!-- /.section section-split -->
+
+
+<section class="section section-graph">
+	<div class="section__head clearfix">
+					<section class="section section-block section-block--left animate-item transition-item" style="background-color: #f6f6f6;">
+				<div class="section__entry">
+					<h2>Software Engineering</h2><p>Codra has forged its know-how from the very outset in services demanding very specific skills in highly technical sectors such as embedded and real-time systems, critical applications, scientific computing, test systems and other complex automation and instrumentation &amp; control projects. The tougher the project, the more we have to prove and the more we feel in our element! </p>				</div><!-- /.section__entry -->
+			</section><!-- /.section section-block section-block-/-left -->
+		
+		<div class="section__image" style="background-image: url(https://codra.net/wp-content/themes/codra/resources/images/temp/graph-bg.svg);"></div><!-- /.section__image -->
+	</div><!-- /.section__head -->
+
+	<div class="section__body">
+		<div class="boxes boxes--alt animate-item transition-item">
+											<div class="box box--alt">
+					<div class="box__inner">
+						<a class="black-box-url" href="/en/Coming-soon/" ><h3>Test Systems*</h3>
+													<div
+							class="btn btn-link btn-link--alt"
+							>
+								Read more
+								<span class="btn__arrow">
+									<i class="arrow"></i>
+								</span>
+							</div>
+						
+						</a>					</div><!-- /.box__inner -->
+				</div><!-- /.box -->
+											<div class="box box--alt">
+					<div class="box__inner">
+						<a class="black-box-url" href="/en/Coming-soon/" ><h3>Automation &amp; Command-Control*</h3>
+													<div
+							class="btn btn-link btn-link--alt"
+							>
+								Read more
+								<span class="btn__arrow">
+									<i class="arrow"></i>
+								</span>
+							</div>
+						
+						</a>					</div><!-- /.box__inner -->
+				</div><!-- /.box -->
+											<div class="box box--alt">
+					<div class="box__inner">
+						<a class="black-box-url" href="/en/Coming-soon/" ><h3>Scientific Software*</h3>
+													<div
+							class="btn btn-link btn-link--alt"
+							>
+								Read more
+								<span class="btn__arrow">
+									<i class="arrow"></i>
+								</span>
+							</div>
+						
+						</a>					</div><!-- /.box__inner -->
+				</div><!-- /.box -->
+											<div class="box box--alt">
+					<div class="box__inner">
+						<a class="black-box-url" href="/en/Coming-soon/" ><h3>Communication protocols*</h3>
+													<div
+							class="btn btn-link btn-link--alt"
+							>
+								Read more
+								<span class="btn__arrow">
+									<i class="arrow"></i>
+								</span>
+							</div>
+						
+						</a>					</div><!-- /.box__inner -->
+				</div><!-- /.box -->
+											<div class="box box--alt">
+					<div class="box__inner">
+						<a class="black-box-url" href="/en/Coming-soon/" ><h3>Business Information Systems*</h3>
+													<div
+							class="btn btn-link btn-link--alt"
+							>
+								Read more
+								<span class="btn__arrow">
+									<i class="arrow"></i>
+								</span>
+							</div>
+						
+						</a>					</div><!-- /.box__inner -->
+				</div><!-- /.box -->
+											<div class="box box--alt">
+					<div class="box__inner">
+						<a class="black-box-url" href="/en/Coming-soon/" ><h3>Maintenance &amp; future proofing*</h3>
+													<div
+							class="btn btn-link btn-link--alt"
+							>
+								Read more
+								<span class="btn__arrow">
+									<i class="arrow"></i>
+								</span>
+							</div>
+						
+						</a>					</div><!-- /.box__inner -->
+				</div><!-- /.box -->
+											<div class="box box--alt">
+					<div class="box__inner">
+						<a class="black-box-url" href="/en/Coming-soon/" ><h3>Embedded software and real time*</h3>
+													<div
+							class="btn btn-link btn-link--alt"
+							>
+								Read more
+								<span class="btn__arrow">
+									<i class="arrow"></i>
+								</span>
+							</div>
+						
+						</a>					</div><!-- /.box__inner -->
+				</div><!-- /.box -->
+					</div><!-- /.boxes -->
+	</div><!-- /.section__body -->
+</section><!-- /.section section-graph -->
+
+<section class="section section-news section-news--solid">
+	<div class="section__body">
+					
+							<article class="article article--alt article-featured animate-item transition-item">
+					<div class="article__image">
+						<a href="https://codra.net/en/news/2020/04/panorama-a-solution-backed-by-state-level-recommendation/">
+							<img src="https://codra.net/wp-content/uploads/2020/04/article-mise-en-avant_qualif_ANSSI_360x360.png" alt="">
+						</a>
+					</div><!-- /.article__image -->
+
+					
+					<div class="article__body">
+                                                    <div class="article__meta">News</div>
+                        
+						<div class="article__title">
+							<a href="https://codra.net/en/news/2020/04/panorama-a-solution-backed-by-state-level-recommendation/">
+								Panorama, a solution backed by state-level recommendation							</a>
+						</div>
+
+						<p>
+							<a href="https://codra.net/en/news/2020/04/panorama-a-solution-backed-by-state-level-recommendation/" class="btn btn-more btn-more--arrow">
+								
+Codra has been awarded ANSSI Qualification for the SCADA part of its  ... 								<span class="btn__arrow">
+									<i class="arrow"></i>
+								</span>
+							</a>
+						</p>
+					</div><!-- /.article__body -->
+				</article><!-- /.article article-/-alt article-featured -->
+					
+					<div class="articles articles--list animate-item transition-item">
+				<div class="articles__head">
+					<div class="articles__title">Our news</div>
+				</div><!-- /.articles__head -->
+
+				<div class="articles__body">
+					                                                    <article class="article article--alt">
+                                <div class="article__image">
+                                    <a href="https://codra.net/en/news/2021/12/webinar-codra-x-genetec/">
+                                        <img width="150" height="150" src="https://codra.net/wp-content/uploads/2021/12/image-mise-en-avant_360x360-Codra-with-Genetec-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Webinar Codra with Genetec" srcset="https://codra.net/wp-content/uploads/2021/12/image-mise-en-avant_360x360-Codra-with-Genetec-150x150.png 150w, https://codra.net/wp-content/uploads/2021/12/image-mise-en-avant_360x360-Codra-with-Genetec-300x300.png 300w, https://codra.net/wp-content/uploads/2021/12/image-mise-en-avant_360x360-Codra-with-Genetec.png 360w, https://codra.net/wp-content/uploads/2021/12/image-mise-en-avant_360x360-Codra-with-Genetec-320x320.png 320w" sizes="(max-width: 150px) 100vw, 150px" />                                    </a>
+                                </div><!-- /.article__image -->
+
+                                
+                                <div class="article__body">
+                                                                            <div class="article__meta">Event  -  20 January 2022</div>
+                                    
+                                    <div class="article__title">
+                                        <a href="https://codra.net/en/news/2021/12/webinar-codra-x-genetec/">
+                                            Webinar Codra x Genetec                                        </a>
+                                    </div>
+
+                                    <p>
+                                        <a href="https://codra.net/en/news/2021/12/webinar-codra-x-genetec/" class="btn btn-more btn-more--arrow">
+                                            Codra and Genetec offer you a new webinar: “Secure, optimised and scalable:  ...                                             <span class="btn__arrow hidden-mobile">
+                                                <i class="arrow"></i>
+                                            </span>
+                                        </a>
+                                    </p>
+                                </div><!-- /.article__body -->
+                            </article><!-- /.article article-/-alt -->
+                        					                                                    <article class="article article--alt">
+                                <div class="article__image">
+                                    <a href="https://codra.net/en/news/2021/12/codra-2021-review/">
+                                        <img width="150" height="150" src="https://codra.net/wp-content/uploads/2021/12/bilan-codra-2021-front-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="bilan-codra-2021-front" srcset="https://codra.net/wp-content/uploads/2021/12/bilan-codra-2021-front-150x150.jpg 150w, https://codra.net/wp-content/uploads/2021/12/bilan-codra-2021-front-300x300.jpg 300w, https://codra.net/wp-content/uploads/2021/12/bilan-codra-2021-front.jpg 360w, https://codra.net/wp-content/uploads/2021/12/bilan-codra-2021-front-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" />                                    </a>
+                                </div><!-- /.article__image -->
+
+                                
+                                <div class="article__body">
+                                                                            <div class="article__meta">Article</div>
+                                    
+                                    <div class="article__title">
+                                        <a href="https://codra.net/en/news/2021/12/codra-2021-review/">
+                                            Codra 2021 Review                                        </a>
+                                    </div>
+
+                                    <p>
+                                        <a href="https://codra.net/en/news/2021/12/codra-2021-review/" class="btn btn-more btn-more--arrow">
+                                            Codra has been growing at double-digit rates for several years and 2021 has  ...                                             <span class="btn__arrow hidden-mobile">
+                                                <i class="arrow"></i>
+                                            </span>
+                                        </a>
+                                    </p>
+                                </div><!-- /.article__body -->
+                            </article><!-- /.article article-/-alt -->
+                        					                                                    <article class="article article--alt">
+                                <div class="article__image">
+                                    <a href="https://codra.net/en/news/2021/10/panoramaday-in-south-africa/">
+                                        <img width="150" height="150" src="https://codra.net/wp-content/uploads/2021/10/image-mise-en-avant_360x360-PanoramaDay-1-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Location PanoramaDay" srcset="https://codra.net/wp-content/uploads/2021/10/image-mise-en-avant_360x360-PanoramaDay-1-150x150.png 150w, https://codra.net/wp-content/uploads/2021/10/image-mise-en-avant_360x360-PanoramaDay-1-300x300.png 300w, https://codra.net/wp-content/uploads/2021/10/image-mise-en-avant_360x360-PanoramaDay-1.png 360w, https://codra.net/wp-content/uploads/2021/10/image-mise-en-avant_360x360-PanoramaDay-1-320x320.png 320w" sizes="(max-width: 150px) 100vw, 150px" />                                    </a>
+                                </div><!-- /.article__image -->
+
+                                
+                                <div class="article__body">
+                                                                            <div class="article__meta">Event  -  10 November 2021</div>
+                                    
+                                    <div class="article__title">
+                                        <a href="https://codra.net/en/news/2021/10/panoramaday-in-south-africa/">
+                                            PanoramaDay in South Africa                                        </a>
+                                    </div>
+
+                                    <p>
+                                        <a href="https://codra.net/en/news/2021/10/panoramaday-in-south-africa/" class="btn btn-more btn-more--arrow">
+                                            This event is dedicated to whom want to discover what benefits Panorama  ...                                             <span class="btn__arrow hidden-mobile">
+                                                <i class="arrow"></i>
+                                            </span>
+                                        </a>
+                                    </p>
+                                </div><!-- /.article__body -->
+                            </article><!-- /.article article-/-alt -->
+                        									</div><!-- /.articles__body -->
+
+													<div class="articles__actions">
+						<a href="https://codra.net/en/news/" class="btn btn-link btn-link--alt">
+							More news							<span class="btn__arrow">
+								<i class="arrow"></i>
+							</span>
+						</a>
+					</div><!-- /.articles__actions -->
+							</div><!-- /.articles articles-/-list -->
+			</div><!-- /.section__body -->
+</section><!-- /.section section-news -->
+	</div><!-- /.wrapper__inner -->
+
+	
+<div class="footer-bar animate-item transition-item">
+	<div class="footer-bar__inner">
+		<a href="mailto:&#115;al&#101;&#115;-p&#97;n&#111;ra&#109;&#97;&#64;c&#111;dra.f&#114;" class="btn btn-contact"><i class="ico-bubble"></i>
+			<span>Contact us</span>		</a>
+		<div class="socials"><p>Follow us</p><ul><li><a href="http://fr.viadeo.com/fr/company/codra" target="_blank">				<img src="https://codra.net/wp-content/themes/codra/resources/images/viadeo.svg" alt="Viadeo">
+							</a></li><li><a href="https://www.linkedin.com/company/codra/" target="_blank">				<img src="https://codra.net/wp-content/themes/codra/resources/images/linkedin.svg" alt="LinkedIn">
+							</a></li><li><a href="https://www.youtube.com/user/CodraPanorama" target="_blank">				<img src="https://codra.net/wp-content/themes/codra/resources/images/youtube.svg" alt="YouTube">
+							</a></li><li><a href="https://twitter.com/CodraPanorama" target="_blank">				<img src="https://codra.net/wp-content/themes/codra/resources/images/twitter.svg" alt="Twitter">
+							</a></li></ul></div>	</div><!-- /.footer-bar__inner -->
+</div><!-- /.footer-bar -->
+
+	<footer class="footer">
+		<!-- <span class="dots-art"></span> -->
+		<!-- <span class="dots-art dots-art--large"></span> -->
+		<!-- <span class="dots-art dots-art--home"></span> -->
+		<span class="dots-art dots-art--home"></span>
+		<div class="footer__body">
+			<div class="shell">
+				<div class="footer__body--top animate-item transition-item">
+					<a href="https://codra.net/en/" class="logo-footer">Codra</a>
+
+					<p>Developer of the Panorama Supervision Platform, Codra is also recognized in the field of software engineering</p>				</div><!-- /.footer__body-/-top -->
+
+									<div class="footer__body--bottom animate-item transition-item">
+						<nav class="nav-footer"><ul id="menu-footer-menu-anglais" class="menu"><li id="menu-item-10833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10833"><a href="https://codra.net/en/codra-company/about-us/">About Us</a></li>
+<li id="menu-item-10846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10846"><a href="https://codra.net/en/news/">News</a></li>
+<li id="menu-item-10841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10841"><a href="https://codra.net/en/codra-company/careers/job-offer/">Join us</a></li>
+<li id="menu-item-14792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14792"><a href="https://codra.net/en/library/">Media Library</a></li>
+<li id="menu-item-10840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10840"><a href="https://esupport.codra.net/en">Technical website</a></li>
+<li id="menu-item-16070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16070"><a href="https://codra.net/en/sitemap/">Site map</a></li>
+</ul></nav>					</div><!-- /.footer__body-/-bottom -->
+							</div><!-- /.shell -->
+		</div><!-- /.footer__body -->
+
+		<div class="footer__foot animate-item transition-item">
+			<div class="shell">
+				<div class="footer__foot--left">
+					<span class="line line--wide"></span>
+				</div><!-- /.footer__foot-/-left -->
+
+													<div class="footer__foot--right">
+						<ul>
+							<li>©CODRA 2022</li>
+							<li id="menu-item-10849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10849"><a href="https://codra.net/en/privacy-policy/">Legal notice &#038; Cookie policy</a></li>
+						</ul>
+					</div><!-- /.footer__foot-/-right -->
+							</div><!-- /.shell -->
+		</div><!-- /.footer__foot -->
+	</footer><!-- /.footer -->
+
+
+	
+<div class="box-scroll">
+    <div class="box--top">
+        <a  href="mailto:contact@codra.fr" class="box-link box-link--alt">
+            <i class="ico-bubble"></i>
+
+            <span>Contact us</span>        </a>
+    </div><!-- /.box-/-top -->
+
+    <div class="box--bottom">
+        <a href="#" class="box-link box-link--scroll">
+            <i class="ico-arrow-gray--top"></i>
+        </a>
+    </div><!-- /.box-/-bottom -->
+</div><!-- /.box-scroll -->
+
+<div class="clickdform sticky-form form-container" tabindex="-1">
+    <div class="sticky-form-title">Contact us</div>
+    <div class="sticky-form-close"></div>
+    <form id="clickdimensionsForm" name="clickdimensionsForm" method="post" accept-charset="utf-8" enctype="multipart/form-data" action="https://analytics-eu.clickdimensions.com/forms/h/awx0dFhWjkmLoQQPafSmg">
+        <input type="text" id="cd_ht_text" name="cd_ht_text" value="" style="display:none;" />
+        <div class="responsiveRow">
+            <div class="responsiveCell responsiveCellSize1">
+                <div class="alignBottom minSize1">
+					<span class="maxSize1" style=" font-weight:normal; font-size:13px;">
+						First name						<span class="requiredStar">*</span>
+					</span>
+                </div>
+                <div class="clear"></div>
+                <div class="alignTop minSize1">
+                    <div id="cont_id_f_0d29d4726475e811a0fa00155dd4221c">
+                        <input class="maxSize1 width100per" type="text" id="f_0d29d4726475e811a0fa00155dd4221c" name="firstname" maxlength="50" style="" value="" />
+                        <div id="required_info_f_0d29d4726475e811a0fa00155dd4221c" class="requiredInfo floatLeft"></div>
+                        <input type="hidden" name="reqField" value="f_0d29d4726475e811a0fa00155dd4221c" alt="Text" req="true" errorMsg="Enter a valid value" requredErrorMsg="This field is required. Please fill in your first name." patternID="0" customRegex="" />
+                    </div>
+                </div>
+            </div>
+            <div class="responsiveCell responsiveCellSize1">
+                <div class="alignBottom minSize1">
+					<span class="maxSize1" style=" font-weight:normal; font-size:13px;">
+						Name						<span class="requiredStar">*</span>
+					</span>
+                </div>
+                <div class="clear"></div>
+                <div class="alignTop minSize1">
+                    <div id="cont_id_f_d61e68886475e811a0fa00155dd4221c">
+                        <input class="maxSize1 width100per" type="text" id="f_d61e68886475e811a0fa00155dd4221c" name="lastname" maxlength="50" style="" value="" />
+                        <div id="required_info_f_d61e68886475e811a0fa00155dd4221c" class="requiredInfo floatLeft"></div>
+                        <input type="hidden" name="reqField" value="f_d61e68886475e811a0fa00155dd4221c" alt="Text" req="true" errorMsg="Enter a valid value" requredErrorMsg="This field is required. Please fill in your name." patternID="0" customRegex="" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="responsiveRow">
+            <div class="responsiveCell responsiveCellSize1" style="margin-bottom:10px">
+                <div class="alignBottom minSize1">
+					<span class="maxSize1" style=" font-weight:normal; font-size:13px;">
+						Company						<span class="requiredStar">*</span>
+					</span>
+                </div>
+                <div class="clear"></div>
+                <div class="alignTop minSize1">
+                    <div id="cont_id_f_bf6c2ac06375e811a0fa00155dd4221c">
+                        <input class="maxSize1 width100per" type="text" id="f_bf6c2ac06375e811a0fa00155dd4221c" name="companyname" maxlength="100" style="" value="" />
+                        <div id="required_info_f_bf6c2ac06375e811a0fa00155dd4221c" class="requiredInfo floatLeft"></div>
+                        <input type="hidden" name="reqField" value="f_bf6c2ac06375e811a0fa00155dd4221c" alt="Text" req="true" errorMsg="Enter a valid value" requredErrorMsg="This field is required. Please inform your Company." patternID="0" customRegex="" />
+                    </div>
+                </div>
+            </div>
+            <div class="responsiveCell responsiveCellSize1" style="margin-bottom:10px">
+                <div class="alignBottom minSize1">
+					<span class="maxSize1" style=" font-weight:normal; font-size:13px;">
+					Phone number					</span>
+                </div>
+                <div class="clear"></div>
+                <div class="alignTop minSize1">
+                    <div id="cont_id_f_a3042d116575e811a0fa00155dd4221c">
+                        <input class="maxSize1 width100per" type="text" id="f_a3042d116575e811a0fa00155dd4221c" name="telephone2" maxlength="50" style="" value="" />
+                        <div id="required_info_f_a3042d116575e811a0fa00155dd4221c" class="requiredInfo floatLeft"></div>
+                        <input type="hidden" name="reqField" value="f_a3042d116575e811a0fa00155dd4221c" alt="Text" req="" errorMsg="Enter a valid value" requredErrorMsg="This field is required. Please enter a value." patternID="0" customRegex="/^(?:(?:\+|00)33[\s.-]{0,3}(?:\(0\)[\s.-]{0,3})?|0)[1-9](?:(?:[\s.-]?\d{2}){4}|\d{2}(?:[\s.-]?\d{3}){2})$/" />
+                    </div>
+                </div>
+            </div>
+            <div class="responsiveCell responsiveCellSize1 emptyCell"></div>
+        </div>
+
+        <div class="responsiveRow">
+            <div class="responsiveCell responsiveCellSize2" style="margin-bottom:10px">
+                <div class="alignBottom minSize2">
+					<span class="maxSize2" style=" font-weight:normal; font-size:13px;">
+					Professional email						<span class="requiredStar">*</span>
+					</span>
+                </div>
+                <div class="clear"></div>
+                <div class="alignTop minSize2">
+                    <div id="cont_id_f_3cd972bf6475e811a0fa00155dd4221c">
+                        <input class="maxSize2 width100per EmailComponent" type="text" id="f_3cd972bf6475e811a0fa00155dd4221c" name="emailaddress1" maxlength="100" style="" value="" onkeypress="return onFieldKeyPress(event)" />
+                        <div id="required_info_f_3cd972bf6475e811a0fa00155dd4221c" class="requiredInfo floatLeft"></div>
+                        <input type="hidden" name="reqField" value="f_3cd972bf6475e811a0fa00155dd4221c" alt="Email" req="true" errorMsg="Enter a professional valid email (hotmail, gmail,… are denied)" requredErrorMsg="This field is required. Please enter your professional email." patternID="1" customRegex="" filterFreeEmail="False" />
+                    </div>
+                </div>
+            </div>
+            <div class="responsiveCell responsiveCellSize1 emptyCell"></div>
+            <div class="responsiveCell responsiveCellSize1 emptyCell"></div>
+        </div>
+
+        <div class="responsiveRow">
+            <div class="responsiveCell responsiveCellSize2">
+                <div class="alignBottom minSize2">
+                    <span class="maxSize2" style=" font-weight:normal; font-size:13px;">Message</span>
+                </div>
+                <div class="clear"></div>
+                <div class="alignTop minSize2">
+                    <div id="cont_id_f_b4bcea0a3b8fe811a0ff00155dd4221c">
+                        <textarea onkeypress="javascript:TextareaMaxLength(this, 1000);" onkeyup="javascript:TextareaMaxLength(this, 1000);" id="f_b4bcea0a3b8fe811a0ff00155dd4221c" name="no_message" style="height:100px; " cols="10" rows="10"></textarea>
+                        <div id="required_info_f_b4bcea0a3b8fe811a0ff00155dd4221c" class="requiredInfo floatLeft"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="responsiveCell responsiveCellSize1 emptyCell"></div>
+        </div>
+
+        <div class="responsiveRow">
+            <div class="responsiveCell responsiveCellSize2">
+                <div class="alignBottom minSize2">
+                    <div id="cont_id_f_d5803ac73a8fe811a0ff00155dd4221c">
+                        <input class="floatLeft" id="f_d5803ac73a8fe811a0ff00155dd4221c" name="no_optin" type="checkbox" />
+                        <label for="f_d5803ac73a8fe811a0ff00155dd4221c" class="form-check-label" style="font-family:Open Sans; font-weight:normal; font-size: 13px;">I agree to be contacted by Codra by email or phone</label>
+                    </div>
+                </div>
+                <div class="clear"></div>
+                <div class="alignTop minSize2">
+                    <div id="required_info_f_d5803ac73a8fe811a0ff00155dd4221c" class="requiredInfo floatLeft"></div>
+                </div>
+            </div>
+            <div class="responsiveCell responsiveCellSize1 emptyCell"> </div>
+        </div>
+
+        <div class="responsiveRow">
+            <div style="vertical-align:bottom;" class="responsiveCell responsiveCellSize1 alignBottom captcha">
+                <div>
+                    <input type="hidden" id="lockTextCaptchaServer" value="Please confirm that you are not a robot" />
+                    <div id="gcaptcha" style="transform:scale(0.66);transform-origin:0 0"> </div>
+                    <div id="required_info_gcaptcha" class="requiredInfo floatLeft"> 
+                    </div>
+                </div>
+            </div>
+            <div class="responsiveCell responsiveCellSize1 emptyCell"> </div>
+            <div class="responsiveCell responsiveCellSize1 emptyCell"></div>
+        </div>
+        <div class="responsiveRow">
+            <div class="responsiveCell responsiveCellSize1 required-field">
+                * Required fields            </div>
+        </div>
+        <div class="responsiveRow">
+            <div class="alignBottom responsiveCell responsiveCellSize2">
+                <div class="maxSize2 minSize2" style="font-size:13px">
+                    <span>We collect personal data in order to process your request. You may receive occasional service offers, event invitations or any other information related to our business. Information you provide is used exclusively by the sales, customer services and communication departments of CODRA and will not be passed on to third parties.</span>
+                    <br><span>In order to manage our prospects and customers, we keep their personal data for a maximum period of 3 years after the last point of contact.</span>
+                    <br><span>In accordance with the legal provisions in force, you have the right to access, rectify, transfer, restrict, object to and delete your personal data. To exercise these rights, send your request by</span>
+                    <a href="mailto:codra-DPO@codra.fr" rel="author">e-mail</a>
+                    <span>or send a letter to the following address: Société CODRA – FAO DPO – 2 rue Christophe Colomb – CS 0851 – 91300 Massy, France. We will respond to you within one month. You can also submit any complaints to the French data protection authority (CNIL) (website: www.cnil.fr)</span>
+                </div>
+            </div>
+            <div class="responsiveCell responsiveCellSize1 emptyCell"></div>
+        </div>
+        <div class="responsiveRow submit-container">
+            <div style="text-align:right; float:right;">
+                <div class="buttonContainer">
+                    <div class="btn btn-special btn-rotate btn--large" onclick="SendForm(this, &quot;clickdimensionsForm&quot;, &quot;Form&quot;);">
+                        <i class="ico-arrow-small--right"></i>
+                        <span class="btn__content">
+							<span class="btn__top">
+								<span class="btn__inner">Send</span>
+							</span>
+							<span class="btn__bottom" data-content="Send"></span>
+						</span>
+                    </div>
+                </div>
+            </div>
+            <div class="responsiveCell responsiveCellSize1 emptyCell"></div>
+            <div class="responsiveCell responsiveCellSize1 emptyCell"></div>
+        </div>
+        <div class="clear"></div>
+    </form>
+</div>
+<script type="text/javascript" src="https://analytics-eu.clickdimensions.com/ts.js" > </script>
+
+<script type="text/javascript">
+  var cdAnalytics = new clickdimensions.Analytics('analytics-eu.clickdimensions.com');
+  cdAnalytics.setAccountKey('aEQ8XH5Z4Zke1pfRSJ0aIY');
+  cdAnalytics.setDomain('codra.net');
+  cdAnalytics.setScore(typeof(cdScore) == "undefined" ? 0 : (cdScore == 0 ? null : cdScore));
+  cdAnalytics.trackPage();
+</script><script type="text/javascript" src="https://analytics-eu.clickdimensions.com/optout.js"></script>
+<script type="text/javascript" src="https://analytics-eu.clickdimensions.com/forms.js"></script>
+<script src="https://az551914.vo.msecnd.net/web/v10/cdform.jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
+    //<![CDATA[
+    clickd_jquery = jQuery.noConflict(true);
+    //]]>
+</script>
+<link href="https://az551914.vo.msecnd.net/web/v10/cdform2.min.css" rel="stylesheet" type="text/css" />
+<script src="https://az551914.vo.msecnd.net/web/v10/cdform.min.noanalytics.js"></script>
+<script>
+    //<![CDATA[
+    function onDocumentReady (){
+        FitSize();
+        SetFormResizable();
+        initForm();
+    }
+</script>
+<script>
+    //<![CDATA[
+    clickd_jquery(function () {
+        onDocumentReady();
+    });
+
+    jQuery(window).load(function() {
+        grecaptcha.render('gcaptcha', {'sitekey' : '6Lc0Jj8UAAAAAIrHGxh8gU_fjO_Pz3s3pa7sjIo2','theme' : 'light' });
+    });
+    //]]>
+</script>
+</div><!-- /.wrapper -->
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var wpVar = {"srcPath":"https:\/\/codra.net\/wp-content\/themes\/codra","admin_ajax_url":"https:\/\/codra.net\/wp-admin\/admin-ajax.php","newsletters_files_url":"https:\/\/codra.net\/en\/newsletter\/files\/","mapZoom":"4","partner_icon_classes":{"Platinium Integrator":"ico-pin-small-gr","Integrator":"ico-pin-small-b","Distributor":"ico-pin-small-lb"},"cluster_image_url":"https:\/\/codra.net\/wp-content\/themes\/codra\/resources\/images\/m","calendarData":"[{\"id\":13619,\"session_id\":0,\"name\":\"Panorama H2\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#915EB1\",\"startDate\":1663027200000,\"endDate\":1663200000000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-h2\/\"},{\"id\":13619,\"session_id\":1,\"name\":\"Panorama H2\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#915EB1\",\"startDate\":1655769600000,\"endDate\":1655942400000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-h2\/\"},{\"id\":13619,\"session_id\":2,\"name\":\"Panorama H2\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#915EB1\",\"startDate\":1651536000000,\"endDate\":1651708800000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-h2\/\"},{\"id\":13619,\"session_id\":3,\"name\":\"Panorama H2\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#915EB1\",\"startDate\":1647302400000,\"endDate\":1647475200000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-h2\/\"},{\"id\":13619,\"session_id\":4,\"name\":\"Panorama H2\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#915EB1\",\"startDate\":1643673600000,\"endDate\":1643846400000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-h2\/\"},{\"id\":13619,\"session_id\":5,\"name\":\"Panorama H2\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#915EB1\",\"startDate\":1637020800000,\"endDate\":1637193600000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-h2\/\"},{\"id\":13618,\"session_id\":0,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#F78B1E\",\"startDate\":1665964800000,\"endDate\":1666310400000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":1,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1665964800000,\"endDate\":1666310400000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":2,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#F78B1E\",\"startDate\":1664755200000,\"endDate\":1665100800000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":3,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1663545600000,\"endDate\":1663891200000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":4,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#F78B1E\",\"startDate\":1662336000000,\"endDate\":1662681600000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":5,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1662336000000,\"endDate\":1662681600000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":6,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1656892800000,\"endDate\":1657238400000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":7,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#F78B1E\",\"startDate\":1656288000000,\"endDate\":1656633600000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":8,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1655683200000,\"endDate\":1656028800000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":9,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#F78B1E\",\"startDate\":1655078400000,\"endDate\":1655424000000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":10,\"name\":\"Panorama E2 Basis\",\"language\":\"English\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1655078400000,\"endDate\":1655424000000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":11,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#F78B1E\",\"startDate\":1652659200000,\"endDate\":1653004800000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":12,\"name\":\"Panorama E2 Basis\",\"language\":\"English\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1652659200000,\"endDate\":1653004800000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":13,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1652054400000,\"endDate\":1652400000000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":14,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#F78B1E\",\"startDate\":1650844800000,\"endDate\":1651190400000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":15,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1649030400000,\"endDate\":1649376000000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":16,\"name\":\"Panorama E2 Basis\",\"language\":\"English\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1649030400000,\"endDate\":1649376000000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":17,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#F78B1E\",\"startDate\":1648425600000,\"endDate\":1648771200000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":18,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1647216000000,\"endDate\":1647561600000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":19,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#F78B1E\",\"startDate\":1646611200000,\"endDate\":1646956800000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":20,\"name\":\"Panorama E2 Basis\",\"language\":\"English\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1646611200000,\"endDate\":1646956800000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":21,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1644192000000,\"endDate\":1644537600000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":22,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1644192000000,\"endDate\":1644537600000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":23,\"name\":\"Panorama E2 Basis\",\"language\":\"English\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1643587200000,\"endDate\":1643932800000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":24,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1642982400000,\"endDate\":1643328000000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":25,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1642982400000,\"endDate\":1643328000000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":26,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1639353600000,\"endDate\":1639699200000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":27,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1638748800000,\"endDate\":1639094400000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":28,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#F78B1E\",\"startDate\":1638748800000,\"endDate\":1639094400000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":29,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#F78B1E\",\"startDate\":1637539200000,\"endDate\":1637884800000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13618,\"session_id\":30,\"name\":\"Panorama E2 Basis\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F78B1E\",\"startDate\":1634515200000,\"endDate\":1634860800000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-basis\/\"},{\"id\":13599,\"session_id\":0,\"name\":\"Panorama E2 \u2013 Advanced\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#F3CF53\",\"startDate\":1665446400000,\"endDate\":1665532800000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-advanced\/\"},{\"id\":13599,\"session_id\":1,\"name\":\"Panorama E2 \u2013 Advanced\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F3CF53\",\"startDate\":1663027200000,\"endDate\":1663113600000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-advanced\/\"},{\"id\":13599,\"session_id\":2,\"name\":\"Panorama E2 \u2013 Advanced\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#F3CF53\",\"startDate\":1654041600000,\"endDate\":1654128000000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-advanced\/\"},{\"id\":13599,\"session_id\":3,\"name\":\"Panorama E2 \u2013 Advanced\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F3CF53\",\"startDate\":1650931200000,\"endDate\":1651017600000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-advanced\/\"},{\"id\":13599,\"session_id\":4,\"name\":\"Panorama E2 \u2013 Advanced\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#F3CF53\",\"startDate\":1647907200000,\"endDate\":1647993600000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-advanced\/\"},{\"id\":13599,\"session_id\":5,\"name\":\"Panorama E2 \u2013 Advanced\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F3CF53\",\"startDate\":1645488000000,\"endDate\":1645574400000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-advanced\/\"},{\"id\":13599,\"session_id\":6,\"name\":\"Panorama E2 \u2013 Advanced\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#F3CF53\",\"startDate\":1636329600000,\"endDate\":1636416000000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-advanced\/\"},{\"id\":13598,\"session_id\":0,\"name\":\"Panorama E2 & CyberSecurity\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#264E97\",\"startDate\":1664236800000,\"endDate\":1664323200000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-cybersecurity\/\"},{\"id\":13598,\"session_id\":1,\"name\":\"Panorama E2 & CyberSecurity\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#264E97\",\"startDate\":1654646400000,\"endDate\":1654732800000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-cybersecurity\/\"},{\"id\":13598,\"session_id\":2,\"name\":\"Panorama E2 & CyberSecurity\",\"language\":\"French\",\"location\":\"Microsoft Teams\",\"color\":\"#264E97\",\"startDate\":1649635200000,\"endDate\":1649721600000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-cybersecurity\/\"},{\"id\":13598,\"session_id\":3,\"name\":\"Panorama E2 & CyberSecurity\",\"language\":\"French\",\"location\":\"Massy\",\"color\":\"#264E97\",\"startDate\":1646092800000,\"endDate\":1646179200000,\"url\":\"https:\/\/codra.net\/en\/training-session\/panorama-e2-cybersecurity\/\"}]","currentLanguage":"en","downloadFormUrl":"https:\/\/codra.net\/en\/document-download-form\/","mapDefaultPosition":{"lat":50.378472,"lng":14.970598}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://codra.net/wp-content/themes/codra/dist/js/bundle-4a91e368da.js?ver=1609946645'></script>
+<script type='text/javascript' src='https://codra.net/wp-includes/js/comment-reply.min.js?ver=4.9.16'></script>
+<script type='text/javascript' src='https://codra.net/wp-includes/js/wp-embed.min.js?ver=4.9.16'></script>
+</body>
+
+    <script>
+        (function(){
+            const trads = [];
+            trads.push({
+                fr : '/fr/formation/',
+                en : '/en/training-session/',
+            });
+            trads.push({
+                fr : '/fr/actualite/',
+                en : '/en/news/',
+            });
+
+            const locale = location.pathname.split('/')[1];
+            const trad = trads.filter((t) => {
+                return location.pathname.startsWith(t[locale]);
+            }).pop()
+            if(trad){
+                // Je suis sur une URL qu'il faut 'transformer'
+                jQuery('.lang-dropdown li a').each(function(index, elt){
+                    var title = jQuery(elt).attr('title');
+                    if(trad[title]){
+                        jQuery(elt).attr('href', trad[title]);
+                    }
+                });
+            }
+        })()
+    </script>
+</html>
