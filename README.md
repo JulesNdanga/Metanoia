@@ -1,2 +1,2 @@
 # Metanoia
-Politique de confidentialité de l'application mobile
+Application de déclaration chrétienne
